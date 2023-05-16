@@ -38,6 +38,7 @@ p {
 }
 
 #about-img {
+  width: 25%;
   border-radius: 50%;
 }
 .btn {
