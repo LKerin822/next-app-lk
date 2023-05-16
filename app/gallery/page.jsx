@@ -32,7 +32,7 @@ const GalleryPage = () => {
         </Card>
       </Col>
       <Col>
-        <Card className="mx-auto d-block text-center" style={{ width: "18rem" }}>
+        <Card className="mx-auto d-block text-center" style={{ width: "17rem" }}>
           <Card.Img variant="top" src="/Lola.png" />
           <Card.Body>
             <Card.Text class="text-center">
