@@ -32,6 +32,14 @@ p {
   padding: 0 1rem; 
 }
 
+#about{
+  background-color: #d0afb6;
+  padding: 0;
+}
+
+#about-img {
+  border-radius: 50%;
+}
 .btn {
   display: inline-block;
   background-color: var(--primary-color);
