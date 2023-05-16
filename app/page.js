@@ -1,10 +1,13 @@
 import Image from "next/image";
-import styles from "./page.module.css";
 
-export default function Home() {
+const HomePage = () => {
   return (
-    <>
-      <h1>Louise Kerin Portfolio</h1>
-    </>
+    <div className="home">
+      <img src="/nana-gen.jpg" className="home-img"></img>
+
+      <h1>LOUISE KERIN</h1>
+    </div>
   );
-}
+};
+
+export default HomePage;
