@@ -1,8 +1,10 @@
 'use client'; 
 import { useState } from 'react';
 import {Card, Row, Col} from 'react-bootstrap';
+import Link from "next/link";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const GalleryPage = () => {
   return (
@@ -49,7 +51,8 @@ const GalleryPage = () => {
             <Card.Text>
               View this gallery for some examples of my design work from the past few years.
             </Card.Text>
-           
+            <Link className='btn btn-light my-3' href="/footyPortraits">Design Gallery</Link>   
+        
           </Card.Body>
         </Card>
       </Col>
