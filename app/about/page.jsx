@@ -1,7 +1,7 @@
 'use client';
 import Image from 'next/image';
 import { Container, Row, Col } from 'react-bootstrap';
-
+import '../../app/globals.css';
 
 
 const AboutPage = () => {
