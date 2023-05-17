@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,500&family=Quicksand&display=swap');
 
+
 :root {
-  --primary-color: #77545d;
+  --primary-color: #bedbc1;
 }
 
 html,
@@ -10,8 +11,8 @@ body {
   margin: 0;
   padding: 0;
   font-size: 16px;
-  background-color: #d0afb6 !important;
-  color: #77545d !important;
+  background-color: #bedbc1 !important;
+  color: #3d5b3d  !important;
 }
 
 h1{
@@ -38,13 +39,18 @@ p {
 }
 
 #about{
-  background-color: #d0afb6;
-  padding: 0;
+  background-color: #d4bfd5;
+  margin-left: 0;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  margin-left: 0;
+  color:#333;
 }
 
 #about-img {
   border-radius: 50%;
 }
+
 
 #contact-img{
   border-radius: 50%;
@@ -87,7 +93,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #d0afb6;
+  background-color: #3d5b3d ;
   color: #fff;
   padding: 1rem;
 }
@@ -95,7 +101,8 @@ p {
 footer{
   padding: 1rem;
   text-align: center;
-  background-color: #d0afb6;
+  color: white;
+  background-color: #3d5b3d ;
 }
 
 .about-img{
