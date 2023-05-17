@@ -43,8 +43,12 @@ p {
 }
 
 #about-img {
-  width: 25%;
   border-radius: 50%;
+}
+
+#contact-img{
+  border-radius: 50%;
+  width: 60%;
 }
 
 .btn {
