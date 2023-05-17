@@ -1,8 +1,24 @@
-import React from 'react'
+
+'use client'; 
+import { useState } from 'react';
+import {Card, Row, Col, Carousel} from 'react-bootstrap';
+import Link from "next/link";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Image from "next/image";
+
 
 const petPortraitPage = () => {
   return (
-    <div>petPortraitPage</div>
+    <Carousel pause="hover">
+<Carousel.Item>
+  <br></br>
+  <Row>
+    <Col sm={6}>
+        
+    </Col>
+  </Row>
+</Carousel.Item>
+    </Carousel>
   )
 }
 
