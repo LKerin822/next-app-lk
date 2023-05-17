@@ -51,7 +51,7 @@ const GalleryPage = () => {
             <Card.Text>
               View this gallery for some examples of my design work from the past few years.
             </Card.Text>
-            <Link className='btn btn-secondary my-3' href="/footyPortraits">Design Gallery</Link>   
+            <Link className='btn btn-secondary my-3' href="/design">Design Gallery</Link>   
         
           </Card.Body>
         </Card>

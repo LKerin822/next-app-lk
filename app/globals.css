@@ -111,6 +111,10 @@ footer{
   width: 50%;
 }
 
+#pp{
+  width: 80;
+}
+
 .links a {
   margin: 0 5rem 0 5rem;
   color: #fff;
