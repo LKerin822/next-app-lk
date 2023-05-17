@@ -111,9 +111,7 @@ footer{
   width: 50%;
 }
 
-#pp{
-  width: 80;
-}
+
 
 .links a {
   margin: 0 5rem 0 5rem;
@@ -206,7 +204,7 @@ footer{
 
 .btn-secondary {
   --bs-btn-color: black !important;
-  --bs-btn-bg: #ccc9cb !important;
+  --bs-btn-bg: #d0afb6 !important;
   --bs-btn-border-color: #7b8a8b;
   --bs-btn-hover-color: white;
   --bs-btn-hover-bg: #8f9c9c;
