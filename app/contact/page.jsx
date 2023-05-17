@@ -20,9 +20,9 @@ const ContactPage = () => {
       <br></br>
       <p>Please feel free to reach out to me.
         <br></br>  
-        <br></br>You can find me on TikTok (link) 
+        <br></br>You can find me on TikTok <a href="https://www.tiktok.com/@louisekerinstudios">@louisekerinstudios</a>
         <br></br>
-        <br></br>Instagram (link) or 
+        <br></br>Instagram <a href="https://www.instagram.com/louisekerinstudios/">@louisekerinstudios</a> or 
         <br></br>
         <br></br>Email me at: louisekerinstudios@gmail.com</p>
       </Col>
