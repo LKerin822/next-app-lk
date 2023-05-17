@@ -18,7 +18,7 @@ const GalleryPage = () => {
             <Card.Text>
             View this gallery to see portraits of AFL players that I have done over the years.
             </Card.Text>
-               
+            <Link className='btn btn-secondary my-3' href="/footyPortraits">Footy Portrait Gallery</Link>   
           </Card.Body>
         </Card>
       </Col>
@@ -29,7 +29,7 @@ const GalleryPage = () => {
             <Card.Text>
               View this gallery to see a few of the portraits that I have done over the years.
             </Card.Text>
-               
+            <Link className='btn btn-secondary my-3' href="/portraits">Portrait Gallery</Link>   
           </Card.Body>
         </Card>
       </Col>
@@ -40,7 +40,7 @@ const GalleryPage = () => {
             <Card.Text class="text-center">
             View this gallery to see portraits of beloved pets that I have for friends and family.
             </Card.Text>
-             
+            <Link className='btn btn-secondary my-3' href="/petPortraits">Pet Portrait Gallery</Link>   
           </Card.Body>
         </Card>
       </Col>
@@ -51,7 +51,7 @@ const GalleryPage = () => {
             <Card.Text>
               View this gallery for some examples of my design work from the past few years.
             </Card.Text>
-            <Link className='btn btn-light my-3' href="/footyPortraits">Design Gallery</Link>   
+            <Link className='btn btn-secondary my-3' href="/footyPortraits">Design Gallery</Link>   
         
           </Card.Body>
         </Card>

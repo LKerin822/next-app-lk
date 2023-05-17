@@ -8,6 +8,7 @@ const Header = () => {
         <Link href="/about">About</Link>
         <Link href="/gallery">Galleries</Link>
         <Link href="/appointments">Appointments</Link>
+        <Link href="/contact">Contact</Link>
       </div>       
     </header>
   )
