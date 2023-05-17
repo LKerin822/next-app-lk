@@ -160,13 +160,24 @@ footer{
   font-size: 0.9rem;
 }
 
-.courses .card h2 {
-  margin-bottom: 0;
+.caro-title{
+  padding: 1em;
+  background-color: #77545d;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.caro-text{
+  padding: 2em;
+  background-color: white;
+  color:#333;
 }
 
 #gallery-title {
   text-align: center !important;
 }
+
+
 
 @keyframes spin {
   to {
