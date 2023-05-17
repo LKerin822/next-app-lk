@@ -173,10 +173,39 @@ footer{
   color:#333;
 }
 
+
 #gallery-title {
   text-align: center !important;
 }
 
+.btn-light{
+  background-color: rgb(112, 111, 111) !important;
+
+}
+
+.btn-primary {
+  --bs-btn-color: #fff !important;
+  --bs-btn-bg: #757576!important;
+  --bs-btn-border-color: #757576!important;
+  --bs-btn-hover-color: #fff!important;
+  --bs-btn-hover-bg: #77545d!important;
+  --bs-btn-hover-border-color: #303d4a !important;
+  --bs-btn-focus-shadow-rgb: 89, 103, 117 !important;
+  font-family: 'Quicksand', sans-serif !important;
+  border-radius: 0 !important;
+}
+
+
+.btn-secondary {
+  --bs-btn-color: black !important;
+  --bs-btn-bg: #ccc9cb !important;
+  --bs-btn-border-color: #7b8a8b;
+  --bs-btn-hover-color: white;
+  --bs-btn-hover-bg: #8f9c9c;
+  --bs-btn-hover-border-color: #889697;
+  font-family: 'Quicksand', sans-serif !important;
+  border-radius: 0 !important;
+}
 
 
 @keyframes spin {
