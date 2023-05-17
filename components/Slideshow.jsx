@@ -21,11 +21,7 @@ export default function Slideshow({ children }) {
         
             <Carousel.Item  interval={4000}>
                 <img src="/Alice.png" alt="slides" />
-                <Carousel.Caption >
-                    
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ipsa alias. Laboriosam ut, repudiandae pariatur fugiat, totam, qui asperiores voluptate consequuntur distinctio earum magni amet! Repudiandae sequi aliquid architecto perspiciatis?</p>
-                   
-                </Carousel.Caption>
+                
             </Carousel.Item>
             <Carousel.Item  interval={4000}>
                 <img src="/Alice.png" alt="slides" />
