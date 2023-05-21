@@ -1,8 +1,11 @@
 'use client';
+import { useState } from 'react'
 import React from 'react'
 import Image from 'next/image';
 import { Container, Row, Col } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import ContactForm from '../../components/ContactForm.jsx'
+
+
 
 const ContactPage = () => {
   return (
@@ -24,14 +27,18 @@ const ContactPage = () => {
         <br></br>
         <br></br>Instagram <a href="https://www.instagram.com/louisekerinstudios/">@louisekerinstudios</a> or 
         <br></br>
-        <br></br>Email me at: louisekerinstudios@gmail.com</p>
+        <br></br>Email me at:louisekerinstudios@gmail.com</p>
       </Col>
     
     <Col md={5}>
 
 </Col>
     </Row>
-  </Container></>
+    <Row><ContactForm /></Row>
+    
+  </Container>
+  
+  </>
   )
 }
 

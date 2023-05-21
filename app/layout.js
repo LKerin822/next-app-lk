@@ -1,5 +1,6 @@
 import "./globals.css";
 import Header from "@/components/Header";
+import { url } from "inspector";
 
 export const metadata = {
   title: "Louise Kerin Portfolio",
@@ -9,9 +10,12 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="stylesheet" href="https://use.typekit.net/cam2uni.css" />
+      </head>
       <body>
         <Header></Header>
-        <div className="container">{children}</div>
+        <div className>{children}</div>
         <footer>
           <p>Louise Kerin &copy; 2023</p>
         </footer>

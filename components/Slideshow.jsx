@@ -28,8 +28,8 @@ export default function Slideshow({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Alice <br></br>
-                    <p><i>(Soft Pastel)</i></p></h3>
+                    <h4 class="caro-title">Alice <br></br>
+                    <p><i>(Soft Pastel)</i></p></h4>
                     <p class="caro-text">
                       This soft pastel piece of my dog, Alice, was created in 2010 when she was still a pup.  For the first few years of her life I would create an illustration of Alice that I could print onto Christmas cards and send out to friends and family.  <br></br><br></br>
                       Sadly just before Christmas last year we lost Alice.  I love her expression in this illustration especially because it reminds me of how little she once was.<pr></pr><br></br>
@@ -55,8 +55,8 @@ export default function Slideshow({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Lola <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Lola <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     Lola was commissioned by a friend as a gift for her daughter.  Lola is the apple of her mum's eye and it was a joy to create a bright, happy piece of such a bright and happy pet!<br></br>
             It was created digitally on an iPad with an apple pencil.<br></br>  
@@ -81,8 +81,8 @@ export default function Slideshow({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Peanut <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Peanut <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This digital illustration of the gorgeous Peanut was created as surprise portrait for her mum.  Peanut's mum was getting married to her dad and the bridesmaids commissioned this piece so that the bride and groom could include their precious pup in their wedding.<br></br>  
                        (2023)</p>
