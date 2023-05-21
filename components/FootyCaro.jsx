@@ -27,8 +27,8 @@ export default function FootyCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Lance "Buddy" Franklin, Sydney <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Lance "Buddy" Franklin, Sydney <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This illustration of Sydney Swan's player Lance "Buddy" Franklin was created in 2019.  I was working my way through a series of AFL portraits and when it came time to chose a player from Sydney, I couldn't go past Buddy.  
                     <br></br>
@@ -52,8 +52,8 @@ export default function FootyCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Seb Ross, St.Kilda <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Seb Ross, St.Kilda <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     I created this portrait of St Kilda player Seb Ross in 2020 during one of the lockdowns.  St. Kilda happens to be my team so it was a lot of fun to create this illustration.<br></br>  
                        (2020)</p>
@@ -75,8 +75,8 @@ export default function FootyCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Max Gawn, Melbourne <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Max Gawn, Melbourne <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This portrait of Melbourne's Max Gawn was created in 2021 to coincide with their AFL Grand Final win.  Just like the portrait of Buddy, this portrait of Max was turned into Melbourne themed bunting to celebrate their premiership win. <br></br>  
                        (2021)</p>
@@ -97,8 +97,8 @@ export default function FootyCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Josh Kennedy, West Coast <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Josh Kennedy, West Coast <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     Josh Kennedy, former West Coast Eagles player, was the subject of this 2019 illustration.  Just like the portrait of Buddy and Max, this portrait was turned into buntin to celebrate the Eagles' premiership win. <br></br>  
                        (2018)</p>

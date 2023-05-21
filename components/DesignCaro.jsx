@@ -28,8 +28,8 @@ export default function DesignCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Hen's Night Design <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Hen's Night Design <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                       This design was commissioned for a hen's night and features all of the bride's favourite things (except the groom himself!); her dog Peanut, red wine, house plants and the beach.<pr></pr>
                       <br></br>
@@ -56,8 +56,8 @@ export default function DesignCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">90's Themed Design <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">90's Themed Design <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This piece features outlined illustrations of various nineties icons.  The design was used for invitations for a nineties themed party.<br></br>  
                        (2022)</p>
@@ -72,7 +72,7 @@ export default function DesignCaro({ children }) {
 
             <Carousel.Item  interval={4000}>
             <br></br>
-            <Row sm={1}> <h2 class="text-center">Design Gallery</h2></Row>
+            <Row sm={1}> <h4 class="text-center">Design Gallery</h4></Row>
             <Row><br></br></Row>
             <Row>
               <Col sm={1}></Col>
@@ -81,8 +81,8 @@ export default function DesignCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">The Platypus Principle <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">The Platypus Principle <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This logo was recently commissioned for the release of the book <i>The Platypus Principle</i>.<br></br> 
                     <br></br> 

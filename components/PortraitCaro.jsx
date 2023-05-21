@@ -51,8 +51,8 @@ export default function PortraitCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Princess Mary of Denmark <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Princess Mary of Denmark <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This portrait of Princess Mary on her wedding day to Prince Frederik of Denmark was created in 2020.  It was created during the very first covid lockdown.<br></br>
                     (2020)</p>
@@ -74,8 +74,8 @@ export default function PortraitCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Leslie Knope <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Leslie Knope <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This portait of Leslie Knope was pet project created in 2019.  I have been a fan of Parks and Recreation for many years and had always wanted to draw her. This piece is the result of many hours work flying home from New York.  <br></br>  
                        (2019)</p>
@@ -96,8 +96,8 @@ export default function PortraitCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Royal Wedding of William and Kate <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Royal Wedding of William and Kate <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This digital illustration was created in 2021 to mark the tenth anniversary of the royal wedding between Prince William and Kate Middleton.  Back in 2011, I created this same image in soft pastel for the art shop I was working for at the time. I often like to recreate earlier pieces to see how much I have learned over the years.   <br></br>  
                        (2021)</p>
@@ -119,8 +119,8 @@ export default function PortraitCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Jill Biden<br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Jill Biden<br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This portrait of Jill Biden, the First Lady of the USA, was a covid lockdown project of 2021.  Living in Melbourne, we experienced many lockdowns which were the perfect excuse to pick up my pen and draw!  <br></br>  
                        (2021)</p>
