@@ -9,7 +9,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const GalleryPage = () => {
   return (
     <div>
-    <Row><h3 id="gallery-title">Galleries</h3></Row>
+      <Row className="p-2"></Row>
+      <Row s={1}></Row>
+    <Row>
+      <Col ><h2 id="gallery-title">Galleries</h2></Col>
+      </Row>
     <Row>
       <Col>
         <Card className=" mx-auto d-block text-center" style={{ width: "18rem" }}>
@@ -57,6 +61,7 @@ const GalleryPage = () => {
         </Card>
       </Col>
     </Row>
+    <Row id="avail"></Row>
   </div>
 
   )

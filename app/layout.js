@@ -1,5 +1,6 @@
 import "./globals.css";
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import { url } from "inspector";
 
 export const metadata = {
@@ -16,9 +17,7 @@ export default function RootLayout({ children }) {
       <body>
         <Header></Header>
         <div className>{children}</div>
-        <footer>
-          <p>Louise Kerin &copy; 2023</p>
-        </footer>
+        <Footer></Footer>
       </body>
     </html>
   );
