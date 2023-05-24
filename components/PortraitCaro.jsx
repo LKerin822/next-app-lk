@@ -27,8 +27,8 @@ export default function PortraitCaro({ children }) {
                 </Col>
                 <Col>
                 <br></br>
-                    <h3 class="caro-title">Kamala Harris <br></br>
-                    <p><i>(Digital Illustration)</i></p></h3>
+                    <h4 class="caro-title">Kamala Harris <br></br>
+                    <p><i>(Digital Illustration)</i></p></h4>
                     <p class="caro-text">
                     This piece of the Vice-President of the USA, Kamala Harris, was created in 2021 to commemmorate her achievement. Harris is the first woman, first black and first Asian American to hold the Vice Presidential office.
                     <br></br>
